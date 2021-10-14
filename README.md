@@ -3,10 +3,7 @@ DO180 Repository for Sample Applications
 
 ## DO180: Red Hat OpenShift I: Containers & Kubernetes
 
-Download OpenShift CLI
-```sh
-https://docs.openshift.com/container-platform/4.8/cli_reference/openshift_cli/getting-started-cli.html
-```
+[Download OpenShift CLI](https://docs.openshift.com/container-platform/4.8/cli_reference/openshift_cli/getting-started-cli.html)
 
 Login in web console
 https://console-<YOUR_URL>
